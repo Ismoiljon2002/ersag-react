@@ -1,0 +1,52 @@
+.summary-page {
+    padding-top: 70px;
+    min-height: 100vh;
+    background-color: #ebebeb;
+}
+
+.picker-container {
+    margin-bottom: 20px;
+    display: flex;
+    flex-direction: column;
+}
+.orders-list * {
+    font-size: 18px;
+}
+.order-header {
+    font-size: 16px !important;
+    color: blue !important;
+}
+.orders-list ol {
+    padding-left: 20px;
+}
+
+.summary {
+    margin-top: 20px;
+}
+
+.orders-list {
+    margin-top: 20px;
+    padding-bottom: 20px;
+    gap: 10px;
+}
+
+.order-item {
+    background-color: white;
+    padding: 15px;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.order-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.css-zow5z4-MuiGrid-root {
+    margin-top: 20px !important;
+}
+
+.css-zow5z4-MuiGrid-root>.MuiGrid-item {
+    padding: 0 0 0 24px !important;
+}

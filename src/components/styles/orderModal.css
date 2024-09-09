@@ -1,0 +1,91 @@
+.modalContainer {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border: none;
+    height: 100%;
+}
+
+.headerText {
+    font-size: 18px;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.input,
+select {
+    border: none;
+    border-bottom: 1px solid #333;
+    margin-bottom: 10px;
+    padding: 10px;
+    font-size: 16px;
+    width: 100%;
+    outline: none;
+    transition: 0.3s ease;
+}
+
+.input:focus {
+    border-bottom: 1px solid blue;
+}
+
+.inputWrapper {
+    margin-bottom: 20px;
+}
+.modalContainer label {
+    z-index: 0;
+}
+
+.itemsContainer {
+    max-height: 300px;
+    overflow-y: auto;
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+.buttonContainer {
+    display: flex;
+    justify-content: space-between;
+    gap: 10px;
+}
+
+.modalContainer button {
+    display: flex;
+    align-items: center;
+    border-radius: 16px;
+    cursor: pointer;
+    padding: 12px 15px;
+}
+
+.deleteButton {
+    background-color: red !important;
+}
+
+.addButton {
+    background-color: orange !important;
+}
+
+.saveButton {
+    background-color: green !important;
+}
+
+.closeButton {
+    background-color: gray !important;
+}
+
+.buttonText {
+    margin-left: 5px;
+    font-size: 16px;
+}
+
+.icon {
+    color: white;
+}
+
+.buttonGroup {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}

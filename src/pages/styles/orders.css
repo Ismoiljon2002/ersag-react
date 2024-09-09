@@ -1,0 +1,73 @@
+.orders.container {
+    padding: 20px;
+}
+
+.orders-list {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.order-item {
+    width: 95%;
+    background-color: #fff;
+    padding: 20px;
+    box-shadow: 0 0 15px #000000dc;
+    border-radius: 10px;
+    margin: 10px auto 0;
+}
+
+.order-header {
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+    margin-bottom: 10px;
+}
+
+.order-header .order-title {
+    font-weight: bold;
+    margin-left: 10px;
+}
+
+.order-date {
+    font-style: italic;
+    color: gray;
+    margin-bottom: 10px;
+}
+
+.order-items {
+    margin-bottom: 20px;
+}
+
+.item-container {
+    padding: 10px;
+    border-bottom: 1px solid #ccc;
+}
+
+.item-content {
+    display: flex;
+    justify-content: space-between;
+}
+
+.customer-name {
+    font-size: 16px;
+}
+
+.delete-button {
+    width: 100%;
+    background-color: red;
+    color: white;
+    padding: 10px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+}
+
+.css-1qed8xp-MuiButtonBase-root-MuiFab-root {
+    z-index: 0 !important;
+    bottom: 5% !important;
+    right: 10% !important;
+    width: 60px !important;
+    height: 60px !important;
+    background: orange !important;
+}
