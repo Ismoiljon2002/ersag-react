@@ -1,0 +1,1916 @@
+[
+    {
+        "id": "96d778d3-79cb-42ef-87d4-0eccdd034f5c",
+        "name": "KONSENTRAT TOMCHI 500 ML",
+        "price": "132.603,62",
+        "code": "104"
+    },
+    {
+        "id": "21777260-725b-4219-99d3-56f081ff30c2",
+        "name": "VANNAXONA VA HOJATXONA UCHUN APPARATLI TOZALASH VOSITASI 1000 ML",
+        "price": "153.581,93",
+        "code": "115"
+    },
+    {
+        "id": "8284fe02-466f-47b5-a1ea-694422ba3d2c",
+        "name": "MAXSUS YOG ERITUVCHI  APPARATLI 1000 ML",
+        "price": "155.357,39",
+        "code": "113"
+    },
+    {
+        "id": "c97f0cec-68df-4d0e-acf7-4f1517452679",
+        "name": "HAVO TOZALAGICH (ANTITABAK) 500 ML",
+        "price": "145.669,08",
+        "code": "135"
+    },
+    {
+        "id": "87e914ed-c04f-48b7-94d8-9099940f7951",
+        "name": "BADAN UCHUN LOSYON 200 ML",
+        "price": "125.144,86",
+        "code": "138"
+    },
+    {
+        "id": "6ab299a9-9f70-4129-a011-aa9c36af9fa3",
+        "name": "DUSH UCHUN GEL 1000 ML",
+        "price": "130.585,95",
+        "code": "125"
+    },
+    {
+        "id": "ed5a848a-461b-4e3a-9913-4f7c0bd4158b",
+        "name": "SOCHLAR UCHUN GEL ODDIY 200 ML",
+        "price": "101.687,03",
+        "code": "147"
+    },
+    {
+        "id": "c02e2608-7bd7-4b6f-8f50-ff20c597e890",
+        "name": "OYOQLARNI PARVARISHLASH UCHUN KREM 200 ml",
+        "price": "194.095,05",
+        "code": "167"
+    },
+    {
+        "id": "1616717b-6722-45ce-a506-0bb8283946f1",
+        "name": "OYOQLARNI PARVARISHLASH UCHUN SPREY 125 ml",
+        "price": "113.768,06",
+        "code": "169"
+    },
+    {
+        "id": "ae8c2d27-491c-4f7e-abbc-5765006e813a",
+        "name": "TISH PASTASI 100 ML",
+        "price": "125.144,86",
+        "code": "188"
+    },
+    {
+        "id": "bbf5b49c-e5bd-4be5-a8c3-85c2ee42998e",
+        "name": "4 IN 1 KOFE (BIR ISHLATISH)",
+        "price": "376.750,80",
+        "code": "2002"
+    },
+    {
+        "id": "ecabd1bb-1418-45fb-a07a-5aa50a7b9a52",
+        "name": "KONSENTRAT TOMCHI 1000 ML",
+        "price": "230.723,35",
+        "code": "161"
+    },
+    {
+        "id": "06cd2ce8-5ab1-48a9-9005-fcbc06812988",
+        "name": "APPARATLI TOMCHI 1000 ML",
+        "price": "242.470,45",
+        "code": "212"
+    },
+    {
+        "id": "c18a4370-cfac-4581-a618-ed62b5a5d4ab",
+        "name": "IDISH UCHUN APPARATLI GEL 1000  ML",
+        "price": "159.124,35",
+        "code": "241"
+    },
+    {
+        "id": "4a7b5738-0773-48f7-83e4-2005fcd4459c",
+        "name": "ARGAN MOYLI  DUSH UCHUN APPARATLI GEL 1000 ML",
+        "price": "222.904,08",
+        "code": "243"
+    },
+    {
+        "id": "cc109127-5814-4076-9d25-f079d74407de",
+        "name": "BIO SHAMPUN APPARATLI 1000 ML",
+        "price": "342.764,40",
+        "code": "247"
+    },
+    {
+        "id": "ac1af07b-ed16-4c1d-a6d0-0ad782298f48",
+        "name": "VANNAXONA VA HOJATXONA UCHUN APPARATLI VOSITA 1000 ML",
+        "price": "147.182,68",
+        "code": "254"
+    },
+    {
+        "id": "c99787b3-924c-48b5-af60-0589a03543f8",
+        "name": "ERKAKLAR SHARLI DEZODORANTI 50 ML",
+        "price": "154.576,19",
+        "code": "214"
+    },
+    {
+        "id": "181a4fd7-f50a-4421-b396-7ad0577eed8d",
+        "name": "BADAN VA QOLNI PARVARISHLASH UCHUN AMIRA KREMI 100 ml",
+        "price": "123.653,75",
+        "code": "271"
+    },
+    {
+        "id": "24663009-05ef-41b5-8791-4bf3cef396d0",
+        "name": "LAVANDA MOYI 20 ml",
+        "price": "122.989,62",
+        "code": "353"
+    },
+    {
+        "id": "42d1d275-b0cc-4f1c-b862-9577728dfeda",
+        "name": "FREZIYA AYOLLAR ATIRI 100 CC",
+        "price": "497.321,10",
+        "code": "5012"
+    },
+    {
+        "id": "37735ac9-1516-455a-9d78-fc85cbacd883",
+        "name": "GARDENIYA AYOLLAR ATIRI 100 CC",
+        "price": "498.021,90",
+        "code": "5014"
+    },
+    {
+        "id": "12bd7948-04b6-4970-83f2-cf49ce64d820",
+        "name": "250 ML (BO'SH FLAKON) ",
+        "price": "37.841,31",
+        "code": "508"
+    },
+    {
+        "id": "f433c055-f48b-45b7-92b8-a9f854e2b202",
+        "name": "YOGUPA TERRAKOTA (201)",
+        "price": "347.145,18",
+        "code": "6025"
+    },
+    {
+        "id": "0aab827f-2fdb-4d82-a1a9-c6cbe772fde8",
+        "name": "YOGUPA TERRAKOTA (203)",
+        "price": "347.145,18",
+        "code": "6027"
+    },
+    {
+        "id": "1b51d381-bf4d-4405-b7a4-aaeffebac54e",
+        "name": "YOGUPA TERRAKOTA (204)",
+        "price": "347.145,18",
+        "code": "6028"
+    },
+    {
+        "id": "df18fee0-3ed2-455a-bf8e-51701e936e69",
+        "name": "PROPOLISLI SHAMPUN (ODDY VA YOGL SOCHLAR ) 300 ML",
+        "price": "163.222,95",
+        "code": "256"
+    },
+    {
+        "id": "96c044d4-d2f2-4af0-94ba-9731cb21e67f",
+        "name": "LAVR EKSTRAKTLI SUYUQ  SOVUN 1000 ML",
+        "price": "158.422,28",
+        "code": "362"
+    },
+    {
+        "id": "2388050b-4a6c-4c1e-a73c-dd6d235adae6",
+        "name": "SIREN DUSH UCHUN APPARATLI GEL 1000  ml",
+        "price": "159.124,35",
+        "code": "242"
+    },
+    {
+        "id": "cd37bbdc-75d5-43e3-9a8e-975040477772",
+        "name": "PROPOLISLI APPARATLI SHAMPUN (ODDY VA  YOGL SOCHLAR UCHUN ) 1000 ML",
+        "price": "347.228,70",
+        "code": "239"
+    },
+    {
+        "id": "fc5279cc-3b16-44ab-91a1-d5a53cd20ad1",
+        "name": "PROPOLISLI SHAMPUN (ODDY VA QURUQ SOCHLAR UCHUN) 1000 ML",
+        "price": "347.228,70",
+        "code": "240"
+    },
+    {
+        "id": "b401b1b6-35fd-4ecf-9602-be39017aef0d",
+        "name": "BALZAMSIZ APPARATLI SHAMPUN 1000  ML",
+        "price": "227.151,30",
+        "code": "246"
+    },
+    {
+        "id": "2e1cd172-9e59-4f22-ba76-b9cb341ac19b",
+        "name": "ARGAN MOYLI APPARATLI SHAMPUN 1000 ML",
+        "price": "367.885,00",
+        "code": "248"
+    },
+    {
+        "id": "288fec2c-bcfc-4c30-870a-b0e164f88e94",
+        "name": "APPARATLI PROPOLISLI (ODDY-QURUQ) SHAMPUN 1000 ML",
+        "price": "391.830,15",
+        "code": "249"
+    },
+    {
+        "id": "074aaa46-a845-4d3e-ab87-4bb69f3ac46b",
+        "name": "APPARATLI PROPOLISLI (ODDY-YOGL) SHAMPUN 1000 ML",
+        "price": "391.830,15",
+        "code": "250"
+    },
+    {
+        "id": "d9292cfa-df8f-497f-8e4b-71cab6a7464e",
+        "name": "PROPOLISLI SHAMPUN (ODDY VA QURUQ SOCHLAR) 300 ML",
+        "price": "163.222,95",
+        "code": "257"
+    },
+    {
+        "id": "44e03013-0f27-46f3-bad9-87c265f10e34",
+        "name": "QO'LLAR UCHUN MOYCHECHAK EKSTRAKTILI  SUYUQ SOVUN  uskunasi bilan   1000 ML",
+        "price": "168.080,55",
+        "code": "356"
+    },
+    {
+        "id": "414f8f5a-fe27-4c97-93da-55a6b2ab8f29",
+        "name": "MOYCHECHAK EKSTRAKTILI  DUSH UCHUN GEL USKUNAS BLAN 1000 ML ",
+        "price": "193.007,38",
+        "code": "357"
+    },
+    {
+        "id": "880ab0ad-d59c-42d1-9cf3-d29c3ef86628",
+        "name": "LAVR EKSTRAKTLI SUYUQ  SOVUN 1000 ML USKUNAS BLAN ",
+        "price": "181.880,12",
+        "code": "364"
+    },
+    {
+        "id": "aaa425fb-75cf-4f76-aec8-95c2c4f76927",
+        "name": "PINE BAR EXTRACT KREM 100 ML",
+        "price": "198.464,00",
+        "code": "378"
+    },
+    {
+        "id": "6e168deb-0707-4551-86e9-4f9bdab3e6d7",
+        "name": "TUKNI YUPQALASHTIRUVCHI LOSYON 200 ml",
+        "price": "249.179,12",
+        "code": "392"
+    },
+    {
+        "id": "0163f161-735e-420d-ac73-91e7d8f09c85",
+        "name": "TIMYAN EKSTRAKTLI KREM  100 ML",
+        "price": "198.464,00",
+        "code": "393"
+    },
+    {
+        "id": "d8b1cd91-785a-4db2-b75f-70c5fea71fc0",
+        "name": "ACHELYA AYOLLAR UCHUN ATIR 100 CC",
+        "price": "757.250,00",
+        "code": "5015"
+    },
+    {
+        "id": "26290615-9211-44ac-b940-3da429fd77dc",
+        "name": "PROTEC 20 KAPSULA",
+        "price": "296.000,00",
+        "code": "4020"
+    },
+    {
+        "id": "14a303a2-451f-43b5-ae62-9febe84eaa4b",
+        "name": " APPARATLI ODEKOLON (MANDRN HDL) 400 ML",
+        "price": "185.280,00",
+        "code": "410"
+    },
+    {
+        "id": "3dbe854e-d651-44c7-9faa-5fe6f2fad7db",
+        "name": "PARFYUM TESTIR BILAN SUMKA (BALLAR BILAN)",
+        "price": "720.000,00",
+        "code": "412"
+    },
+    {
+        "id": "bbb3f1ea-c3a5-4f9a-ab76-9c7213503752",
+        "name": "KOFE ALKORATLI ICHIMLIKLAR",
+        "price": "264.000,00",
+        "code": "2071"
+    },
+    {
+        "id": "f31f7dd0-2129-40f6-8efb-46d1e1dfa186",
+        "name": "KIRISH XUMTA (TOR TORT BURCHAKL-NUQTA)",
+        "price": "672.000,00",
+        "code": "413"
+    },
+    {
+        "id": "b57f3500-4889-4e27-af2e-deb404d5672c",
+        "name": " AKSIYA XALTA (OVAL-BALTA)",
+        "price": "672.000,00",
+        "code": "414"
+    },
+    {
+        "id": "fcec602f-577f-4c20-a771-06e3cfbb1eb1",
+        "name": "MOYCHECHAK EKSTRAKTLI SUYUQ QO'L KO'PIGI 1000 ML(APARATSZ)",
+        "price": "161.594,40",
+        "code": "444"
+    },
+    {
+        "id": "f373c23b-f636-47f1-a80a-e1667a67339d",
+        "name": "MOYCHECHAK EKSTRAKTLI SUYUQ QO'L KO'PIGI 1000 ML(APARATL)",
+        "price": "211.715,00",
+        "code": "445"
+    },
+    {
+        "id": "85e0df84-dbe6-4699-ad52-21ccbafe3e74",
+        "name": "YUZNI OQARTIRUVCHI KREM 50 ML (YANGI QADOQDA)",
+        "price": "262.933,12",
+        "code": "442"
+    },
+    {
+        "id": "0e3f8ff2-5f81-4f20-83e9-cd4301468e7c",
+        "name": "GODJ BERRY KREM(YANGI QADOQDA)",
+        "price": "316.771,82",
+        "code": "443"
+    },
+    {
+        "id": "6b3320ae-8d4b-43a0-ac1c-95c16816355f",
+        "name": "YASHIRIN ORZULAR  XONA HIDLARI  150 ML",
+        "price": "530.000,00",
+        "code": "480"
+    },
+    {
+        "id": "79f37104-4b2e-4af9-a719-3d878be66374",
+        "name": "N GURUHI 3 DONALIK IBORAT T'O'PLAMI(N1,N2,N3 KAPSULALARI)",
+        "price": "3.840.000,00",
+        "code": "4040-1"
+    },
+    {
+        "id": "80d8d509-b2f4-4a46-94ab-97a1f05e0494",
+        "name": "ROMANTIK XONA HIDLARI SUYUQLIGI 150ml",
+        "price": "374.400,00",
+        "code": "482"
+    },
+    {
+        "id": "7f2c57da-5bc2-4fa0-b531-f2760545309f",
+        "name": "YASHIRIN ORZULAR XONA HIDLARI SUYUQLIGI 150ml",
+        "price": "374.400,00",
+        "code": "483"
+    },
+    {
+        "id": "8b71e34b-8fc5-4afd-88a7-1d1faf857a71",
+        "name": "VALENS ERKAKLAR ATIRI 100 CC",
+        "price": "1.420.000,00",
+        "code": "1011"
+    },
+    {
+        "id": "75cfa9b5-3f77-4f28-9941-594d7a8174b3",
+        "name": "VENUS AYOLLAR ATIRI 100 cc",
+        "price": "1.420.000,00",
+        "code": "5017"
+    },
+    {
+        "id": "56c6f449-92b9-43d0-bd3f-facd6bf53735",
+        "name": " KOLLAGEN TIP 2(tabletka)",
+        "price": "540.000,00",
+        "code": "2098"
+    },
+    {
+        "id": "afe389fb-ab3b-4a34-a89a-365e2e5e3a7e",
+        "name": "TEMIR BISGLISINAT VA VITAMIN C ",
+        "price": "352.000,00",
+        "code": "2099"
+    },
+    {
+        "id": "58fabb8d-9ca4-4997-bb7c-0050038cd6b8",
+        "name": "BROMELAIN",
+        "price": "460.000,00",
+        "code": "3011"
+    },
+    {
+        "id": "252aa502-3396-451b-8607-bb292b49b277",
+        "name": "SOCH PARVARISHI ZARDOBI 200 ML.",
+        "price": "588.000,00",
+        "code": "495"
+    },
+    {
+        "id": "fec3107a-6915-4610-b873-6e82e468f6e4",
+        "name": "Roybos Choyi",
+        "price": "180.000,00",
+        "code": "3012"
+    },
+    {
+        "id": "623d1501-473e-4fbf-809e-2b5f02220771",
+        "name": " CRANBERRY TABLETKASI",
+        "price": "264.000,00",
+        "code": "3014"
+    },
+    {
+        "id": "9904e208-d3de-4ab5-8012-986b5ae41492",
+        "name": "KARAHNDBA (DANDELION) TABLETKASI",
+        "price": "218.000,00",
+        "code": "3013"
+    },
+    {
+        "id": "1d52d656-a6e3-4985-812c-a5765e23a4a0",
+        "name": "MEYVEDOL MX",
+        "price": "1.308.000,00",
+        "code": "4044"
+    },
+    {
+        "id": "241382f7-8658-443a-93b7-5b65f3299c47",
+        "name": "ISSIQ SHOKOLAD 500 gr",
+        "price": "654.000,00",
+        "code": "4045"
+    },
+    {
+        "id": "5b174c88-f1b9-4279-a9f1-53b75378e0e2",
+        "name": "QOVOQ URUGI YOGI",
+        "price": "148.000,00",
+        "code": "496"
+    },
+    {
+        "id": "e5082ac2-f0b5-4a2b-ba64-99c85aca4940",
+        "name": "ZIG'IR URUG'I YOG'I ",
+        "price": "128.000,00",
+        "code": "497"
+    },
+    {
+        "id": "92cdc42e-842f-4857-a728-5142273a517e",
+        "name": "KAOLIN LOY NIQOBI 100ml",
+        "price": "344.000,00",
+        "code": "498"
+    },
+    {
+        "id": "0ba4e36a-aa15-47ba-9fdc-45eb944f7a77",
+        "name": "MULTIVITAMIN KAPSULA (2 SOTIB OL, 1 SOVGAGA)",
+        "price": "1.008.000,00",
+        "code": "3032"
+    },
+    {
+        "id": "a724d14b-3f7f-4259-98b7-54d43af43022",
+        "name": "KOLLAGEN  ZARDOBI",
+        "price": "384.000,00",
+        "code": "477"
+    },
+    {
+        "id": "352b595e-24f8-4dfe-b578-4da7f7f242ff",
+        "name": "OQ KIRLAR UCHUN KIR YUVISH KUKUNI 1000 GR",
+        "price": "231.070,95",
+        "code": "101"
+    },
+    {
+        "id": "ca4bb4e8-d00c-4dcc-910b-6d24b96391f9",
+        "name": "RANGLI KIRLAR UCHUN KIR YUVISH KUKUNI 1000 GR",
+        "price": "231.070,95",
+        "code": "102"
+    },
+    {
+        "id": "d6443b6c-ca49-4f93-9d7e-d36a60a746a2",
+        "name": "MANJET UCHUN SPREY 250  ML",
+        "price": "88.423,51",
+        "code": "111"
+    },
+    {
+        "id": "cae8b77c-c945-46c9-9b01-207eeff2a431",
+        "name": "KIR YUVISH UCHUN FAOL VOSITA 1000 ML",
+        "price": "125.400,61",
+        "code": "117"
+    },
+    {
+        "id": "92c8424f-9e84-4d74-9bcf-08c0e0c2bfb2",
+        "name": "DAZMOL UCHUN SPREY 500 ML",
+        "price": "118.328,10",
+        "code": "189"
+    },
+    {
+        "id": "b5f4540e-bd0c-42a1-bb4a-9f7a66b2dcd5",
+        "name": "YUVILGAN KIRLAR UCHUN KONDITSIONER 500  ML",
+        "price": "118.328,10",
+        "code": "253"
+    },
+    {
+        "id": "649cedf2-e358-4e52-bfdc-778f7ba0f779",
+        "name": "TYUL VA PARDALAR UCHUN KIR YUVISH KUKUNI 500 GR",
+        "price": "136.326,75",
+        "code": "350"
+    },
+    {
+        "id": "cbc0db4c-8c9d-4a3d-9078-5d56b225654c",
+        "name": "YUVILGAN KIRLAR UCHUN KONDITSIONER 1000  ML",
+        "price": "192.861,90",
+        "code": "351"
+    },
+    {
+        "id": "5655ff92-2099-4ec1-ae31-613d61c7d164",
+        "name": "QORA LAR UCHUN 1000 ML KIVIY SUYUQLIK ",
+        "price": "152.592,00",
+        "code": "405"
+    },
+    {
+        "id": "17001f5a-2f09-4f13-821b-cde775404ddb",
+        "name": "OQLAR UCHUN KR YUVSH SUYUQLG 1000 ML",
+        "price": "358.000,00",
+        "code": "485"
+    },
+    {
+        "id": "35ac64c9-3e26-4cb4-992e-dc0177a10ca2",
+        "name": "RANGLI UCHUN KR YUVSH SUYUQLG 1000 ml.",
+        "price": "358.000,00",
+        "code": "486"
+    },
+    {
+        "id": "e7a5d16f-b095-4bb0-87d8-8a14416932dc",
+        "name": "IDISH UCHUN YARAQLATGICH 500 ML",
+        "price": "84.404,25",
+        "code": "108"
+    },
+    {
+        "id": "f304e7bd-b724-47d8-9a33-16089a0759e9",
+        "name": "MAXSUS YOG ERITUVCHI 1000 ML",
+        "price": "139.007,98",
+        "code": "114"
+    },
+    {
+        "id": "a48d1811-2b75-42b2-9ae6-bccc8875b951",
+        "name": "IDISH UCHUN SUYUQLIK 1000 ML",
+        "price": "166.200,30",
+        "code": "118"
+    },
+    {
+        "id": "39b29474-9258-45e3-b680-80a9bcfe66d8",
+        "name": "IDISH UCHUN APPARATLI SUYUQLIK 1000 ML",
+        "price": "186.969,30",
+        "code": "168"
+    },
+    {
+        "id": "bbc5467a-a979-4a2e-8b91-954c2be6d36d",
+        "name": "IDISH YUVISH MASHINALARINI TOZALASH VOSITASI 500 ML",
+        "price": "171.703,48",
+        "code": "182"
+    },
+    {
+        "id": "86c5f2ed-5ad2-4c57-86e7-56f87731e0d7",
+        "name": "IDISH YUVISH GELI AVTOMAT 1000 ML",
+        "price": "231.467,40",
+        "code": "229"
+    },
+    {
+        "id": "c95954b6-3d92-40b2-b681-166754ded22f",
+        "name": "IDISH UCHUN SUYUQLIK (XUSHBOY OLMA) 1000  ML",
+        "price": "166.200,30",
+        "code": "236"
+    },
+    {
+        "id": "b2061e9b-4224-493d-ad5e-863631cc6afc",
+        "name": "IDISH UCHUN APPARATLI SUYUQLIK XUSHBOY OLMA 1000  ML",
+        "price": "186.969,30",
+        "code": "255"
+    },
+    {
+        "id": "b2178fdb-3bb1-4056-a15b-46050efe09a2",
+        "name": "KREM YUZI TAZARISH 500 ML",
+        "price": "91.200,00",
+        "code": "418"
+    },
+    {
+        "id": "7ae62fe7-ce19-4738-a136-c2dc7393a397",
+        "name": "UMUMIY TOZALASH 1000 ML",
+        "price": "130.833,28",
+        "code": "105"
+    },
+    {
+        "id": "349ebdae-db5f-4ae7-bf11-c60be4bc11c0",
+        "name": "GILAM SHAMPUNI 1000  ML",
+        "price": "125.144,86",
+        "code": "106"
+    },
+    {
+        "id": "555f0e47-e6b2-496d-b507-f897d3e9c913",
+        "name": "VANNAXONA VA HOJATXONA UCHUN TOZALASH VOSITASI 1000 ML",
+        "price": "136.521,68",
+        "code": "107"
+    },
+    {
+        "id": "20de43f7-46c3-4d46-9b46-4735a1c656b2",
+        "name": "MEBEL UCHUN SPREY 500  ML",
+        "price": "88.423,51",
+        "code": "109"
+    },
+    {
+        "id": "51cec962-6647-46d2-8971-013649d5100f",
+        "name": "AVTOMOBILLARNI TOZALASH VOSITASI 250 ML",
+        "price": "88.423,51",
+        "code": "110"
+    },
+    {
+        "id": "5f5feccc-6bf6-4d69-8196-e0252e5346cc",
+        "name": "GILAM UCHUN AVTOMAT 1000  ML",
+        "price": "108.821,62",
+        "code": "123"
+    },
+    {
+        "id": "15f05670-f2ae-4203-af67-0be5a0733478",
+        "name": "CHARM BUYUMLARINI TOZALASH SPREYI 500 ML",
+        "price": "98.928,75",
+        "code": "152"
+    },
+    {
+        "id": "53a64150-75a5-4b1a-a9eb-99770dd4ebbe",
+        "name": "VANNAXONA VA HOJATXONA UCHUN BAHORIY HIDLI TOZALASH VOSITASI 1000 ML",
+        "price": "130.833,28",
+        "code": "228"
+    },
+    {
+        "id": "5f76fee3-fd6c-4b3c-ad83-11d2456e9436",
+        "name": "QOL UCHUN SUYUQ SOVUN APPARATLI 1000  ML",
+        "price": "163.222,95",
+        "code": "116"
+    },
+    {
+        "id": "ed2d9bda-8718-4e23-9699-8f3d06619eff",
+        "name": "QO'L  UCHUN SUYUQ SOVUN 1000 ml",
+        "price": "130.585,95",
+        "code": "119"
+    },
+    {
+        "id": "51dd5fdc-a22d-4c1e-9359-0c3a22538b74",
+        "name": "BALZAMSIZ SHAMPUN 1000  ML",
+        "price": "203.337,68",
+        "code": "121"
+    },
+    {
+        "id": "a214d795-3491-4def-97c6-cba02746df97",
+        "name": "DUSH UCHUN GEL (SIREN) 1000 ML",
+        "price": "130.585,95",
+        "code": "124"
+    },
+    {
+        "id": "85433147-808e-40c6-9bdc-d4e6574f8d8a",
+        "name": "QOL UCHUN SUYUQ KOPIK APPARATLI 1000  ML",
+        "price": "186.962,40",
+        "code": "126"
+    },
+    {
+        "id": "94289712-9214-464f-94c7-f3ceda19834f",
+        "name": "QOL UCHUN SUYUQ KOPIK (APPARATSIZ) 1000 ML",
+        "price": "146.904,45",
+        "code": "127"
+    },
+    {
+        "id": "a0fa91a6-eea5-44b0-a9aa-91e937d8bb03",
+        "name": "BIO SHAMPUN 1000 ML",
+        "price": "318.286,65",
+        "code": "157"
+    },
+    {
+        "id": "f7372c6d-30c1-45d2-a4d8-233b0e94dfc7",
+        "name": "BOLALAR SHAMPUNI 300 ML",
+        "price": "183.942,50",
+        "code": "163"
+    },
+    {
+        "id": "6feed0aa-bc42-41b1-a318-ee3086085706",
+        "name": "BALZAMLI SHAMPUNI 300  ML",
+        "price": "120.581,10",
+        "code": "196"
+    },
+    {
+        "id": "3a15fee8-e4d0-42ca-bac1-c158773bc5f9",
+        "name": "BALZAMSIZ SHAMPUNI 300  ML",
+        "price": "120.581,10",
+        "code": "197"
+    },
+    {
+        "id": "9f563156-fd3a-4a39-a8af-0e88a728d061",
+        "name": "BIO SHAMPUN 300 ml",
+        "price": "171.382,21",
+        "code": "198"
+    },
+    {
+        "id": "6a36999c-6197-44cd-b403-45715593f8fa",
+        "name": "ARGAN MOYLI SHAMPUN 1000 ML",
+        "price": "329.999,68",
+        "code": "208"
+    },
+    {
+        "id": "deafc903-8d03-4de8-be69-03087b24f6e9",
+        "name": "ARGAN MOYLI DUSH GEL 1000  ML",
+        "price": "195.518,40",
+        "code": "209"
+    },
+    {
+        "id": "7430aaf9-653c-4968-a569-01d7721f3c18",
+        "name": "ARGAN MOYLI SHAMPUN 300 ML",
+        "price": "175.802,65",
+        "code": "222"
+    },
+    {
+        "id": "e0d7496f-2ac2-4502-b891-cfb4d1e0cb45",
+        "name": "QOL UCHUN PROPOLISLI SUYUQ SOVUN  1000  ML",
+        "price": "159.124,35",
+        "code": "251"
+    },
+    {
+        "id": "a4a35e93-9c92-454d-ac99-cd7969a8f02c",
+        "name": "QOL UCHUN PROPOLISLI SUYUQ SOVUN APPARATLI 1000 ML",
+        "price": "187.700,70",
+        "code": "252"
+    },
+    {
+        "id": "2ff07cc3-b625-4e1b-a342-368c1bf0a0ab",
+        "name": "DUSH UCHUN BOLALAR GELI 300 ML",
+        "price": "148.393,12",
+        "code": "258"
+    },
+    {
+        "id": "78e3830a-35ba-4fc6-abd7-ebbc8f31a49c",
+        "name": "ALOE VERA EKSTRAKTLI SHAMPUN 300 ML",
+        "price": "163.222,95",
+        "code": "316"
+    },
+    {
+        "id": "4bb8bfb1-9d08-404b-aecb-339c785e3d8f",
+        "name": "SOXTA KASHTAN VA  ZAYTUN EKSTRAKTLI SHAMPUN  300 ml",
+        "price": "163.222,95",
+        "code": "317"
+    },
+    {
+        "id": "d16847e2-9a45-4a8e-8136-b755c8a3e3e3",
+        "name": "GPREYPFRUT EKSTRAKTLI SHAMPUN 300 ML",
+        "price": "163.222,95",
+        "code": "318"
+    },
+    {
+        "id": "10bd6dd8-4e2d-44db-a72e-2cec9d84f987",
+        "name": "SARIQ MOYCHECHAK EKSTRAKTLI SHAMPUN 300 ml",
+        "price": "163.222,95",
+        "code": "319"
+    },
+    {
+        "id": "d64f9f0f-32ac-4a6f-b75b-50a1199a4e30",
+        "name": "MOYCHECHAK EKSTRAKTI BILAN SUYUQ QO'L SOVUNI 1000 ML",
+        "price": "137.619,35",
+        "code": "354"
+    },
+    {
+        "id": "981a86ee-5af8-4454-978a-3e7decca28d5",
+        "name": "MOYCHECHAK EKSTRAKTLI DUSH UCHUN GEL 1000 ML",
+        "price": "167.223,51",
+        "code": "355"
+    },
+    {
+        "id": "b887fe8b-0870-409a-9407-68132c7aa483",
+        "name": "DUSH GELI 1000 ML KARAGAY BARI EKSTRAKTLI",
+        "price": "163.296,00",
+        "code": "380"
+    },
+    {
+        "id": "c8de4943-4698-490d-a135-abb6af177841",
+        "name": "DUSH GELI APPARATLI PINE BAR EKSTRAKTLI 1000 ML",
+        "price": "180.936,00",
+        "code": "383"
+    },
+    {
+        "id": "3f7a357c-01eb-4c0f-a1e1-b03ccc16b17f",
+        "name": "QATTQLASHTRUVCH DUSH GELI 1000  ML",
+        "price": "261.204,53",
+        "code": "390"
+    },
+    {
+        "id": "c425e0bd-e2e7-404b-b564-2723e2a27be1",
+        "name": "DUSH GELI 500 ML",
+        "price": "76.560,00",
+        "code": "400"
+    },
+    {
+        "id": "1e57043a-facf-473e-bc05-43e5a8b21d0d",
+        "name": "DUSH UCHUN GEL (SIREN) 500 ML",
+        "price": "76.560,00",
+        "code": "401"
+    },
+    {
+        "id": "62018e02-33f2-4720-b42a-4a70ff9a37f7",
+        "name": "KARAGAY BARI EKSTRAKTLI DUSH GELI 500 ML",
+        "price": "108.240,00",
+        "code": "402"
+    },
+    {
+        "id": "271b1bab-fa98-477b-afb4-62f3df1fdb34",
+        "name": "MOYCHECHAK EKSTRAKTLI DUSH UCHUN GEL 500ML",
+        "price": "95.040,00",
+        "code": "403"
+    },
+    {
+        "id": "bc06681d-0406-4cf4-bdfa-68627f1d8242",
+        "name": "ARGAN MOYLI DUSH GEL 500ML",
+        "price": "110.880,00",
+        "code": "404"
+    },
+    {
+        "id": "fd9266c8-7e59-4f3a-ad93-dd9ad0421fe9",
+        "name": "HAVO TOZALAGICH (BAHOR UFORI) 500 ML",
+        "price": "145.669,08",
+        "code": "136"
+    },
+    {
+        "id": "ac477150-a6ba-46c8-a349-2065fffc8d9a",
+        "name": "HAVO TOZALAGICH (MAXSUS) 500  ML",
+        "price": "130.585,95",
+        "code": "149"
+    },
+    {
+        "id": "a3b76b48-793d-4310-8afc-ba816176562d",
+        "name": "ROMANTIK  XONA HIDLARI  150 ML",
+        "price": "530.000,00",
+        "code": "479"
+    },
+    {
+        "id": "1349e43e-7dab-4938-80ba-32929b8b664c",
+        "name": "GILOS YOG'I 30 ML",
+        "price": "117.264,00",
+        "code": "381"
+    },
+    {
+        "id": "19757b5d-51fb-4610-ab38-38640f691bd6",
+        "name": "KO'KNOR YOG'I 30 ML",
+        "price": "117.158,40",
+        "code": "384"
+    },
+    {
+        "id": "87b73c98-df5b-48d9-974c-c728ffc2886f",
+        "name": "AROMATIK MASAJ MOG'I 100 ML",
+        "price": "280.830,00",
+        "code": "387"
+    },
+    {
+        "id": "52f8779c-a03a-4615-a1ea-55ff8c7e405f",
+        "name": "KUNJUT YOG'I 30 ml.",
+        "price": "112.000,00",
+        "code": "454"
+    },
+    {
+        "id": "e8df798e-4b0d-406b-b22d-21882470d431",
+        "name": "KOZ UCHUN QALAM (QORA)",
+        "price": "132.603,62",
+        "code": "264"
+    },
+    {
+        "id": "541e76e4-9bf9-4380-aba6-e3e82334b004",
+        "name": "KOZ UCHUN QALAM (TOQ KOK)",
+        "price": "132.603,62",
+        "code": "269"
+    },
+    {
+        "id": "53e1f984-1a07-4ba2-afba-285c5acf2752",
+        "name": "BB KREM OCH TUSDA 50 ml",
+        "price": "197.577,19",
+        "code": "320"
+    },
+    {
+        "id": "e7df265e-f857-4833-9751-ea3f0636bd36",
+        "name": "BB KREM TOQ TUSDA 50 ml",
+        "price": "197.577,19",
+        "code": "321"
+    },
+    {
+        "id": "56e324e1-0b84-47b9-a835-ef0d0ce76711",
+        "name": "CC KREM OCH TUSDA 50 ML",
+        "price": "169.351,88",
+        "code": "6004"
+    },
+    {
+        "id": "c2587926-8e0d-44f3-ae3d-2e052eec4259",
+        "name": "CC KREM TOQ TUSDA 50 ml",
+        "price": "169.351,88",
+        "code": "6005"
+    },
+    {
+        "id": "6f2b4372-e9e7-4196-ae65-53cc37905854",
+        "name": "MAKIYAJNI TOZALASH UCHUN SUYUQLIK 200 ML",
+        "price": "115.715,19",
+        "code": "6024"
+    },
+    {
+        "id": "2bc6ca3d-1fa8-4abd-9f98-9f78d9fdbb44",
+        "name": "BIRIKTIRISH (RANG KODI K-1)",
+        "price": "173.806,25",
+        "code": "6030"
+    },
+    {
+        "id": "a62e061a-7564-415c-8b63-1cc00b5f7406",
+        "name": "BIRKIYOR (RANG KODI K-2)",
+        "price": "173.806,25",
+        "code": "6031"
+    },
+    {
+        "id": "72019ccb-8a58-4675-b9fa-d5f165e7b2ea",
+        "name": "BIRIKTIRISH (RANG KODI K-3)",
+        "price": "173.806,25",
+        "code": "6032"
+    },
+    {
+        "id": "b77a7efc-a2b4-4dd4-b017-7f82e83c7c99",
+        "name": "BIRKIYOR (RANG KODI K-4)",
+        "price": "173.806,25",
+        "code": "6033"
+    },
+    {
+        "id": "e6afbc3f-bdda-4f6c-84bd-c398a368cb00",
+        "name": "BIRIKTIRISH (RANG KODI K-5)",
+        "price": "173.806,25",
+        "code": "6034"
+    },
+    {
+        "id": "b50a6049-4788-475b-b930-88d33ae18ef1",
+        "name": "SUYUK LIP (RAN KODI R-1)",
+        "price": "161.211,60",
+        "code": "6035"
+    },
+    {
+        "id": "af6523c0-8079-4363-82f6-052eba4fb041",
+        "name": "SUYUK LIP (RAN KODI R-2)",
+        "price": "161.211,60",
+        "code": "6036"
+    },
+    {
+        "id": "56f5b9eb-1f7a-4366-b6b7-954edd311976",
+        "name": "SUYUK LIP (RAN KODI R-3)",
+        "price": "161.211,60",
+        "code": "6037"
+    },
+    {
+        "id": "1e260298-ca41-43a2-8e7f-a7adc513aad7",
+        "name": "SUYUK LIP (RAN KODI R-4)",
+        "price": "161.211,60",
+        "code": "6038"
+    },
+    {
+        "id": "7c0ee932-6304-4a06-b835-1a1da455abb5",
+        "name": "SUYUK LIP (RAN KODI R-5)",
+        "price": "161.211,60",
+        "code": "6039"
+    },
+    {
+        "id": "ffa3ce4f-e928-4189-863f-68586dc17afd",
+        "name": "SUYUK LIP (RAN KODI R-6)",
+        "price": "161.211,60",
+        "code": "6041"
+    },
+    {
+        "id": "8a4c4364-9340-4ead-85b4-99cd52fad039",
+        "name": "MAKIYAJ BAZASI  50 ml",
+        "price": "560.000,00",
+        "code": "6042"
+    },
+    {
+        "id": "8279ee64-667a-4c7d-b5be-4544fa3201c5",
+        "name": "MASKARA  QAYRLGAN VA HAJML KPRKLAR",
+        "price": "288.000,00",
+        "code": "6043"
+    },
+    {
+        "id": "ac1195f9-f48a-4ef0-ab92-c78b06298914",
+        "name": "MASKARA - TO'LQ VA HAJML KRPKLAR",
+        "price": "288.000,00",
+        "code": "6044"
+    },
+    {
+        "id": "72532889-cc5f-4b0e-b116-3ad4b79dbd63",
+        "name": "SUVGA CHIDAMLI DIPLINER",
+        "price": "230.400,00",
+        "code": "6045"
+    },
+    {
+        "id": "dfac6c99-516e-4ae5-b628-84eb0b1ac17e",
+        "name": "SOCHLAR UCHUN GEL NAMLIK EFFEKTI 200 ML",
+        "price": "101.687,03",
+        "code": "145"
+    },
+    {
+        "id": "ef7ae321-9757-44b9-a9b3-64ec4fe267e7",
+        "name": "BADAN UCHUN FRESH SPREYI 50 ML",
+        "price": "76.374,38",
+        "code": "301"
+    },
+    {
+        "id": "bc6d6e7a-ac04-4564-ae64-9acd2b7c1449",
+        "name": "BADAN UCHUN FRESH EKZOTIK SPREYI 50 ML",
+        "price": "76.374,38",
+        "code": "302"
+    },
+    {
+        "id": "797a5c73-cfed-4b43-aab7-bc2755db86b4",
+        "name": "XRIZANTEMA AYOLLAR ATIRI 100 CC",
+        "price": "452.111,70",
+        "code": "5001"
+    },
+    {
+        "id": "8a27d768-b337-4bd0-9349-78b2607c2fdc",
+        "name": "lILIYA AYOLLAR ATIRI 100 CC",
+        "price": "452.111,70",
+        "code": "5003"
+    },
+    {
+        "id": "c6b2867a-fcca-484b-952b-0059b9736424",
+        "name": "LAVINA AYOLLAR ATIRI 100  CC",
+        "price": "452.111,70",
+        "code": "5007"
+    },
+    {
+        "id": "ab0ed936-2f79-4b37-9eba-220f62ffab98",
+        "name": "ESILA AYOLLAR ATIRI 100 CC",
+        "price": "535.576,55",
+        "code": "5010"
+    },
+    {
+        "id": "ac82c03c-75d5-41aa-8332-b4cf26c13ef6",
+        "name": "AYOLLAR UCHUN AMIRA ATIR 100 CC",
+        "price": "459.856,25",
+        "code": "5011"
+    },
+    {
+        "id": "de715455-1aeb-44eb-bce5-013052584bd4",
+        "name": "AYOLLAR UCHUN AXENK ATIRI 100 CC",
+        "price": "497.321,10",
+        "code": "5013"
+    },
+    {
+        "id": "c77a9f13-02e3-41d4-b70a-87569e3bbac5",
+        "name": "REYYA AYOLLAR UCHUN ATIR 100 CC",
+        "price": "464.750,00",
+        "code": "5016"
+    },
+    {
+        "id": "bbd279d4-3b46-4367-8053-151e0386bc5f",
+        "name": "POYRAZ ERKAKLAR ATIRI 100 CC",
+        "price": "421.970,95",
+        "code": "1001"
+    },
+    {
+        "id": "27030fec-9455-4727-91fc-8f87858633ec",
+        "name": "SHIMOL ERKAKLAR ATIRI 100 CC",
+        "price": "421.970,95",
+        "code": "1002"
+    },
+    {
+        "id": "477df60c-51ec-43be-97d0-0e7086c5052f",
+        "name": "SHIMOL ERKAKLAR ATIRI 100 CC",
+        "price": "421.970,95",
+        "code": "1003"
+    },
+    {
+        "id": "cc5f34b3-3207-4837-886d-efcba941fd22",
+        "name": "BORA ERKAKLAR ATIRI 100CC (spirtsiz)",
+        "price": "632.931,25",
+        "code": "1004"
+    },
+    {
+        "id": "7528e2dd-f6be-434b-b2b0-689f9e9e3401",
+        "name": "LODOS ERKAKLAR ATIRI 100 CC",
+        "price": "421.970,95",
+        "code": "1005"
+    },
+    {
+        "id": "97eb33e5-66a8-4657-8a42-d797b7ddd2a0",
+        "name": "AYOZ ERKAKLAR ATIRI 100 CC",
+        "price": "421.970,95",
+        "code": "1006"
+    },
+    {
+        "id": "0f7475c3-a32f-4e97-ba9b-6f9608a8abea",
+        "name": "OKEAN ERKAKLAR ATIRI 100CC",
+        "price": "421.970,95",
+        "code": "1007"
+    },
+    {
+        "id": "656d9ddd-95c2-430a-92ed-1ed5e2a1c60c",
+        "name": "BKR  ERKAKLAR ATIRI 100 CC",
+        "price": "535.576,55",
+        "code": "1008"
+    },
+    {
+        "id": "72ae4b61-15e9-43e1-a535-f817df091bf3",
+        "name": "AMIRA ERKAKLAR ATIRI 100 CC.",
+        "price": "421.970,95",
+        "code": "1009"
+    },
+    {
+        "id": "7fa9d2da-38c1-4475-a3ed-b2b3c43cb11c",
+        "name": "SHARLI DEZODORANT 50 ml",
+        "price": "142.457,41",
+        "code": "156"
+    },
+    {
+        "id": "d21309e8-833d-415d-a52e-6544bce12c4f",
+        "name": "AYOLLAR SHARLI DEZODORANTI 50 ml",
+        "price": "154.576,19",
+        "code": "213"
+    },
+    {
+        "id": "13b75dd5-c4f0-4b36-b36d-82682752bb9b",
+        "name": "CLEANBALL UQALASH KREMI 200 ML",
+        "price": "245.317,12",
+        "code": "112"
+    },
+    {
+        "id": "b0d63ac6-bbb0-45ab-b961-2ddd4ab15925",
+        "name": "QO'L UCHUN LOSYON 200 ml",
+        "price": "132.164,05",
+        "code": "139"
+    },
+    {
+        "id": "4b04e26c-2ed5-444e-ab29-2e0e1e6e0739",
+        "name": "HUSHBUZARLARGA QARSHI LOSYON 200 ML",
+        "price": "173.431,50",
+        "code": "140"
+    },
+    {
+        "id": "53efb182-2dce-4a3e-9825-88e8933dc248",
+        "name": "KUNDUZGI PARVARISH UCHUN LOSYON 100 ML",
+        "price": "182.390,00",
+        "code": "141"
+    },
+    {
+        "id": "f086c984-4be4-41b1-925a-5e97dd95db17",
+        "name": "TUNGI PARVARISH UCHUN LOSYON 100 ml",
+        "price": "182.390,00",
+        "code": "142"
+    },
+    {
+        "id": "b3a33cac-4218-4d92-94c3-f9001867cb5b",
+        "name": "TSELLYULITGA QARSHI LOSYON 200 ML",
+        "price": "231.242,00",
+        "code": "143"
+    },
+    {
+        "id": "1ad74aaa-b21c-4c1a-8be7-86298576a495",
+        "name": "ARGANIYA MOYLI NAMLANTIRUVCHI LOSYON 100 ml",
+        "price": "233.711,62",
+        "code": "206"
+    },
+    {
+        "id": "c3513e51-6032-4d1f-a47f-3288f5ab823f",
+        "name": "CLEANBALL UQALASH KREMI 100 ML",
+        "price": "166.357,28",
+        "code": "224"
+    },
+    {
+        "id": "7f314b56-1242-4b1c-bd48-a36c295d3709",
+        "name": "QO'L UCHUN LOSYON 100 ML",
+        "price": "88.423,51",
+        "code": "225"
+    },
+    {
+        "id": "84a38dba-edab-4b07-b4ff-ab84f509353f",
+        "name": "QUYOSHDA TOBLANISH UCHUN MOY 200 ML",
+        "price": "351.634,08",
+        "code": "238"
+    },
+    {
+        "id": "070fb12a-753a-4eba-8099-e5943120b6d7",
+        "name": "TERINI PARVARISHLASH UCHUN SEDANA YOGLI KREM 100 ml",
+        "price": "201.260,06",
+        "code": "260"
+    },
+    {
+        "id": "2023b3b2-d8ae-462f-bbba-74c965ed40d2",
+        "name": "QUYOSHDAN HIMOYA QILUVCHI MOLOCHKO 200 ML",
+        "price": "318.286,65",
+        "code": "263"
+    },
+    {
+        "id": "701ba581-3bc9-4d49-b436-e8fe9b6d863d",
+        "name": "SENTARIUM EKSTRAKTI ASOSIDA KREM 100 ML",
+        "price": "182.390,00",
+        "code": "270"
+    },
+    {
+        "id": "49d428d4-8aa7-4fef-a5d7-a57852d85a40",
+        "name": "MAJNUNTOL EKSRAKTLI KREM 150 ml",
+        "price": "224.431,55",
+        "code": "334"
+    },
+    {
+        "id": "b8c1618b-3b3f-40b6-96b8-e33662b8fd07",
+        "name": "LAVANDA EKSTRAKTLI KREM 100 ML",
+        "price": "198.464,00",
+        "code": "394"
+    },
+    {
+        "id": "723746b1-76ee-49e2-89ad-103fc30e854d",
+        "name": "EVKALPT EKSTRAKTLI KREM 100 ML",
+        "price": "198.464,00",
+        "code": "395"
+    },
+    {
+        "id": "f80d3bca-b42e-48c7-9a47-9e6bf8c1bfaf",
+        "name": "SPF 50 QUYOSHDAN HIMOYA QILUVCHI KREM 100 ML",
+        "price": "285.020,32",
+        "code": "565"
+    },
+    {
+        "id": "93b623ae-8e01-4682-a922-4adaee321bc6",
+        "name": "SOCHLARNI PARVARISH QILISH UCHUN TONIK 200 ML",
+        "price": "305.024,70",
+        "code": "158"
+    },
+    {
+        "id": "04e76611-29de-4692-83ce-df8311c37d8c",
+        "name": "YUZNI TOZALASH UCHUN MOLOCHKO 200 ml",
+        "price": "145.562,62",
+        "code": "164"
+    },
+    {
+        "id": "508a5678-7e70-4a9c-b217-2bdba63f7514",
+        "name": "YUZ TONIK (QURUQ TERI UCHUN) 200 ml",
+        "price": "145.562,62",
+        "code": "165"
+    },
+    {
+        "id": "cd7df246-fbee-4e26-a1f8-86fecf4c0fac",
+        "name": "YUZ TONIK (NORMAL YOG'LI TERI UCHUN) 200ml",
+        "price": "145.562,62",
+        "code": "166"
+    },
+    {
+        "id": "aa67878e-130c-4736-b05c-94e7b2d089b5",
+        "name": "BOLALAR UCHUN MOY 200 ml",
+        "price": "235.070,08",
+        "code": "186"
+    },
+    {
+        "id": "0668df26-55af-4005-b9cd-43884cba258a",
+        "name": "QULUPNAY TAMLI TISH PASTASI ",
+        "price": "113.397,76",
+        "code": "204"
+    },
+    {
+        "id": "3a036d7c-d3dd-4560-a664-ea972845e2c3",
+        "name": "NAMLANTIRUVCHI SALFETKALAR",
+        "price": "78.229,18",
+        "code": "207"
+    },
+    {
+        "id": "49c4317c-e877-419b-80e7-17353a7a4a3c",
+        "name": "SOCHLARNI PARVARISH QILISH UCHUN MOY 100 ML",
+        "price": "202.867,19",
+        "code": "215"
+    },
+    {
+        "id": "36f32ce3-cbd9-4b97-ab6b-2bf88491943b",
+        "name": "YUZ TOZALASH UCHUN GEL 200 ML",
+        "price": "171.382,21",
+        "code": "226"
+    },
+    {
+        "id": "594ce6d1-9a04-4409-94e3-95626ebfefbe",
+        "name": "YETILGAN TERIGA MO'LJALLANGAN KREM 100 ML",
+        "price": "347.307,20",
+        "code": "231"
+    },
+    {
+        "id": "0a224b3d-adcf-4400-9f9e-ec4798316b3a",
+        "name": "LAB UCHUN NAMLANTIRUVCHI VOSITA 5 ML",
+        "price": "81.630,45",
+        "code": "234"
+    },
+    {
+        "id": "23a15e2d-3725-4204-8465-86eee70c9f6e",
+        "name": "BADANNI PARVARISHLASH UCHUN KREM 200 ML",
+        "price": "138.745,20",
+        "code": "237"
+    },
+    {
+        "id": "159b0f03-d6db-4532-ac0c-1da9158b4785",
+        "name": "SOCHLARNI PARVARISH QILISH UCHUN KREM 200 ML",
+        "price": "130.585,95",
+        "code": "259"
+    },
+    {
+        "id": "2e5b0aea-7565-43da-93b3-49fd55a128e4",
+        "name": "SOQOL OLISHDAN KEYINGI BALZAM 150 ML",
+        "price": "134.384,18",
+        "code": "261"
+    },
+    {
+        "id": "1b8e9f69-8a8c-4a94-86c2-60d8acfeef6c",
+        "name": "OLTIN MASKA 150 ML",
+        "price": "228.496,95",
+        "code": "287"
+    },
+    {
+        "id": "487d056b-3202-432d-9911-0068a2dfacd9",
+        "name": "MARVARIDLI NIQOB 150 ML",
+        "price": "228.496,95",
+        "code": "288"
+    },
+    {
+        "id": "9045d240-5866-43ba-8703-a0ed17d0827e",
+        "name": "OGIZ BOSHLIGI UCHUN PROPOLISLI SPREY 30 ML",
+        "price": "158.930,00",
+        "code": "352"
+    },
+    {
+        "id": "0d22e19c-c96a-43cb-b010-18db19e64200",
+        "name": "TERI QUVVAT MOG'I - 4 DO'NA ARALAMA 50 ML",
+        "price": "233.100,00",
+        "code": "386"
+    },
+    {
+        "id": "8893e661-9919-40c7-b13b-2fe98475e340",
+        "name": "GALURON KISLOTAL SERUM 30 ML",
+        "price": "294.400,00",
+        "code": "389"
+    },
+    {
+        "id": "e78ebf73-9878-42d5-8674-145944d00a92",
+        "name": "VITAMIN C SERUM 30 ML",
+        "price": "271.920,00",
+        "code": "396"
+    },
+    {
+        "id": "c9abaa55-cc2f-4353-965c-66509d04d629",
+        "name": " OGIZ BOSHLIGI SPREYI PROPOLISLI QULUPNAYLI 30 ML",
+        "price": "161.000,00",
+        "code": "407"
+    },
+    {
+        "id": "9eb4a439-8196-4c74-94b0-7e6f61530c0c",
+        "name": "PEELING - YUZ UCHUN 100 ML",
+        "price": "253.440,00",
+        "code": "408"
+    },
+    {
+        "id": "02f9343d-5f8e-4c36-9795-2e13533eef30",
+        "name": "ODEKOLON (MANDARN HDL) 400 ML",
+        "price": "163.680,00",
+        "code": "409"
+    },
+    {
+        "id": "378254b0-5020-4025-847f-cda896b2ba46",
+        "name": "OG'IZ YO'LLARI 200 ml.",
+        "price": "146.000,00",
+        "code": "440"
+    },
+    {
+        "id": "ade5c7c9-1d0d-4256-823e-0b5e391a7b0b",
+        "name": "KO'Z ATROFI UCHUN KREM 50 ML (YANGI QADOQDA)",
+        "price": "320.518,80",
+        "code": "441"
+    },
+    {
+        "id": "09e38df6-e562-4ff1-9ff9-070e9016fd18",
+        "name": "YENGIL SOCH TARASH UCHUN SPREY- KATTALAR UCHUN 200 ml",
+        "price": "254.150,00",
+        "code": "452"
+    },
+    {
+        "id": "67f5e8a6-0d2c-4d1d-826c-b225f74f13a8",
+        "name": "YENGIL SOCH TARASH UCHUN SPREY BOLALAR UCHUN 200 ml",
+        "price": "216.200,00",
+        "code": "453"
+    },
+    {
+        "id": "0c84a111-440a-473b-8f29-8e17d1d0b37a",
+        "name": "TISH PASTASI / CHINNIGUL - EVKALPT - ALOE VERA  100 ML.",
+        "price": "125.144,86",
+        "code": "481"
+    },
+    {
+        "id": "d21b470b-4a70-403f-ba35-02f501ef010f",
+        "name": "NAM SALFETKALAR(12 dona)",
+        "price": "19.470,14",
+        "code": "484"
+    },
+    {
+        "id": "cf93c9b7-46be-45f6-9844-ba9b55f0951d",
+        "name": "SAYOHAT SUMKASI",
+        "price": "359.392,98",
+        "code": "505"
+    },
+    {
+        "id": "2898ac34-1257-46fb-9cea-97e7118989dd",
+        "name": "PARFYUM TESTIR BILAN SUMKA (YANGI TESTIR SHISHADA)",
+        "price": "1.565.353,00",
+        "code": "589"
+    },
+    {
+        "id": "2f576b37-3634-443e-8b8a-e727839f427b",
+        "name": "N3 KAPSULA",
+        "price": "640.000,00",
+        "code": "4026"
+    },
+    {
+        "id": "0556d1d0-08b3-420f-8131-6155d2c03ce8",
+        "name": "BETA GLUKAN KAPSULASI",
+        "price": "449.000,00",
+        "code": "4037"
+    },
+    {
+        "id": "09f7569a-d6f0-4381-9026-c64c84c15fcf",
+        "name": "N4 KAPSULA",
+        "price": "720.000,00",
+        "code": "4039"
+    },
+    {
+        "id": "2808560e-0b2a-4366-a19c-9ff3e1f9fc07",
+        "name": "POMERANETS, NA'MATAK VA VITAMIN C EKSTRAKTI",
+        "price": "353.012,30",
+        "code": "2038"
+    },
+    {
+        "id": "a049482a-60c6-4a44-91a4-36a10dbc272a",
+        "name": "FOLIY KISLOTASI",
+        "price": "216.000,00",
+        "code": "4033"
+    },
+    {
+        "id": "00c634f5-9fb8-4af5-b1d6-e7385b4a27c5",
+        "name": "MULTIVITAMIN KAPSULASI",
+        "price": "504.000,00",
+        "code": "4034"
+    },
+    {
+        "id": "ffd7cf72-8951-4ac8-aa26-98a58f4a836d",
+        "name": "MORINGA  CHOYI",
+        "price": "152.494,16",
+        "code": "2000"
+    },
+    {
+        "id": "d4c636a5-56ca-40a2-8951-e8b14ed6dc34",
+        "name": "TAYYOR ERUTILADIGAN QAHVA",
+        "price": "376.750,80",
+        "code": "2029"
+    },
+    {
+        "id": "070e9d77-5416-4f90-8e25-cdb790576f45",
+        "name": "4 IN 1 QAHVA KUKUNI 350 GR",
+        "price": "514.650,00",
+        "code": "2064"
+    },
+    {
+        "id": "67901664-2567-4ec5-9778-7f09b37b6246",
+        "name": "4 IN 1 COFFEE SOFT (BITTA FOYDALANUVCHI)",
+        "price": "264.000,00",
+        "code": "2073"
+    },
+    {
+        "id": "eabaa917-e001-4ff2-974d-2c05bc6ee385",
+        "name": "SUYUK PROPOLIS 30 ML",
+        "price": "290.950,00",
+        "code": "2013"
+    },
+    {
+        "id": "990108cc-eb9b-4c95-83d2-713a645cbc40",
+        "name": "QORA ZIRA YOGI (GELLI KAPSULA)",
+        "price": "369.777,55",
+        "code": "2025"
+    },
+    {
+        "id": "5be7c946-686d-4fb0-9f72-bf4ac4e23060",
+        "name": "ZIG'IR URUG'I YOG'I ",
+        "price": "112.320,00",
+        "code": "397"
+    },
+    {
+        "id": "db19e293-93ff-4740-8912-49329498b60f",
+        "name": "QUSHOQO'NMAS YOG' 30 ML.",
+        "price": "142.560,00",
+        "code": "406"
+    },
+    {
+        "id": "d214885b-c58e-416c-a473-a8f9a3ef3ee9",
+        "name": "REYSHA QO'ZIQORINI",
+        "price": "470.804,25",
+        "code": "2003"
+    },
+    {
+        "id": "f2e4bacd-ed39-4827-a79a-4356d68c4d3b",
+        "name": "LEPIDIUM(PERUVAN MAKA)",
+        "price": "418.493,62",
+        "code": "2006"
+    },
+    {
+        "id": "e1d53c41-7353-4f27-940a-11726e15fd48",
+        "name": "ZUBTURUM",
+        "price": "398.800,00",
+        "code": "2007"
+    },
+    {
+        "id": "5a4124c4-ca5f-4639-9cd7-d9ef012c8a29",
+        "name": "ILOHIY VITEKS EKSTRAKTI",
+        "price": "366.855,75",
+        "code": "2010"
+    },
+    {
+        "id": "e79fbe8c-bde7-4d6a-87a0-f639c246c1f8",
+        "name": "BOSVELLIA SERATA",
+        "price": "466.000,00",
+        "code": "2014"
+    },
+    {
+        "id": "6e0b3a9c-a40d-4a18-9117-3e99b5064f8c",
+        "name": "SPIRULINA",
+        "price": "403.541,32",
+        "code": "2016"
+    },
+    {
+        "id": "f9b2e3c8-230a-444f-9358-c5d8db49d74b",
+        "name": "ZAYTUN BARGI EKSTRAKTI",
+        "price": "114.000,00",
+        "code": "2017"
+    },
+    {
+        "id": "c3bd186d-84c5-41c7-b8c2-1ccc1287fe21",
+        "name": "MORINGA",
+        "price": "446.899,20",
+        "code": "2018"
+    },
+    {
+        "id": "6de7e233-7ee7-4cc2-a73b-c91a75eec32f",
+        "name": "ASTRAGALUS",
+        "price": "444.000,00",
+        "code": "2019"
+    },
+    {
+        "id": "84cf4638-fa09-4925-82f4-de2ca0d8fd44",
+        "name": "GLYUKOZAMIN XONDROITIN",
+        "price": "583.000,00",
+        "code": "2020"
+    },
+    {
+        "id": "46352546-4a9e-48e9-bb15-a2502cb7cf48",
+        "name": "Temir qushqo'nmas, L-ARGININ, CHIROROOT,",
+        "price": "649.679,20",
+        "code": "2022"
+    },
+    {
+        "id": "fdd8d9c4-cf8c-4cbf-9a8a-721ea05a9747",
+        "name": " PRO 360",
+        "price": "485.415,00",
+        "code": "2052"
+    },
+    {
+        "id": "7f3094de-fa81-4a95-a10e-b4f16d60e537",
+        "name": "CUCUMIN Z GEL KAPSULASI (BLIsterli qadoqlash)",
+        "price": "570.664,50",
+        "code": "4008"
+    },
+    {
+        "id": "22cde1e9-88a3-41e1-a1a1-501a5e344302",
+        "name": "PROTEK 20",
+        "price": "466.080,00",
+        "code": "4009"
+    },
+    {
+        "id": "d3294d94-9af8-40eb-8f1e-e6b60dacdb54",
+        "name": "LAVANDA KAPSULASI",
+        "price": "196.000,00",
+        "code": "4015"
+    },
+    {
+        "id": "b1aba5a0-0376-429c-bdb3-46ed317977a2",
+        "name": "CHOC'PON KERTEN (TEMR TKAN) KAPSULAS",
+        "price": "204.000,00",
+        "code": "4016"
+    },
+    {
+        "id": "f1edbb33-a4d8-496c-90bc-923cd78a3498",
+        "name": "TIMYAN KAPSULASI",
+        "price": "204.000,00",
+        "code": "4017"
+    },
+    {
+        "id": "4a168197-fa24-4901-8af1-d0a4a42ed321",
+        "name": "EKALIPT KAPSULASI",
+        "price": "204.000,00",
+        "code": "4018"
+    },
+    {
+        "id": "48484c27-5d05-429f-a644-41471ef1ad4c",
+        "name": "ASPIR VA TIMYAN KAPSULASI",
+        "price": "172.800,00",
+        "code": "4019"
+    },
+    {
+        "id": "b3eabdad-38cf-41cf-8004-9aa4da9b2a7b",
+        "name": "N1 KAPSULA, N2 KAPSULA (N1 KAPSULA, N2 KAPSULA PROMOTION)",
+        "price": "3.200.000,00",
+        "code": "4042-1"
+    },
+    {
+        "id": "995becf8-ee84-4258-9198-7008f4addd30",
+        "name": "MAHSULOTLAR KATALOGI ",
+        "price": "40.506,77",
+        "code": "511"
+    },
+    {
+        "id": "4cc14a50-728d-4216-85a0-339d083cff1a",
+        "name": "SUYUQ KO'PIK UCHUN USKUNA",
+        "price": "78.734,34",
+        "code": "512"
+    },
+    {
+        "id": "d5cfe8f4-d530-44a5-81f4-fc0b4c730937",
+        "name": "SUYUQ KO'PIK UCHUN NASOS",
+        "price": "49.958,86",
+        "code": "514"
+    },
+    {
+        "id": "8200880b-ff81-4d88-8976-2075ab672923",
+        "name": "BORA SPIRTSIZ ERKAKLAR PARFYUMI TESTERI",
+        "price": "86.281,76",
+        "code": "523"
+    },
+    {
+        "id": "8cb7b94b-6707-49b7-aa8c-a2268bc93e4a",
+        "name": "ACELYA AZALIYA AYOLLAR ATIRI (SPIRTSIZ) TESTERI 5 CC",
+        "price": "86.281,76",
+        "code": "524"
+    },
+    {
+        "id": "47c065b1-68f3-476b-8bdf-ddce0b209aa9",
+        "name": "BO'SH FLAKON MAXSUS YOG' ERITUVCHI 250 ml",
+        "price": "37.841,31",
+        "code": "530"
+    },
+    {
+        "id": "9ae3e41f-b20f-45e1-b068-d6e451a5f605",
+        "name": "BO'SH FLAKON VANNA VA TUALETNI TOZALASH VOSITASI 250ml",
+        "price": "37.841,31",
+        "code": "531"
+    },
+    {
+        "id": "fd85d557-e47e-4f63-bc63-4849e71094fd",
+        "name": "BO'SH FLAKON QO'LLAR UCHUN SUYUQ SOVUN  250 ml",
+        "price": "37.841,31",
+        "code": "532"
+    },
+    {
+        "id": "8c13a542-dc84-4298-b2d3-ad0900226472",
+        "name": "BO'SH FLAKON IDISH YUVISH UCHUN SUYUQLIK  250 ml",
+        "price": "37.841,31",
+        "code": "533"
+    },
+    {
+        "id": "9ce4cd05-0b80-4136-ad09-f4fa3628d089",
+        "name": "BO'SH FLAKON DUSH UCHUN GEL  300 ml",
+        "price": "46.936,92",
+        "code": "535"
+    },
+    {
+        "id": "d7f5049e-1c6f-43a6-92b5-5cf4954ab430",
+        "name": "BO'SH FLAKON BIO SHAMPUN  300 ml",
+        "price": "46.936,92",
+        "code": "537"
+    },
+    {
+        "id": "2c9179ee-f1ac-4316-870b-16e4a2f0ceca",
+        "name": "BO'SH FLAKON BALZAMLI SHAMPUN  300ml",
+        "price": "46.936,92",
+        "code": "538"
+    },
+    {
+        "id": "d188be1e-b66c-4922-9604-bfbc63e7e96d",
+        "name": "BO'SH FLAKON BALZAMSIZ SHAMPUN  300 ml",
+        "price": "46.936,92",
+        "code": "539"
+    },
+    {
+        "id": "d546590c-c5ce-499f-8406-330c3ae956d9",
+        "name": "BO'SH FLAKON SIRENLI DUSH UCHUN GEL  300 ml",
+        "price": "46.936,92",
+        "code": "540"
+    },
+    {
+        "id": "c1b37329-a07f-414f-a03f-84b55ac567b9",
+        "name": "BO'SH FLAKON TOMCHI KONSENTRAT 250 ml",
+        "price": "37.841,31",
+        "code": "541"
+    },
+    {
+        "id": "f1848631-1942-4a2d-8616-982f44c50384",
+        "name": "DOZATOR 1 L",
+        "price": "34.819,37",
+        "code": "542"
+    },
+    {
+        "id": "eebc5129-4560-43b4-8119-6061ba4e99d9",
+        "name": "DOZATOR PURKAGICH",
+        "price": "21.198,28",
+        "code": "543"
+    },
+    {
+        "id": "d7c8cc0a-8cf9-488b-8736-a381f064859a",
+        "name": "DOZATOR",
+        "price": "18.161,45",
+        "code": "544"
+    },
+    {
+        "id": "23f097cc-f969-48da-89d1-93f29fc702cd",
+        "name": "BO'SH FLAKON ARGAN MOYILI SHAMPUN  300 ml",
+        "price": "46.936,92",
+        "code": "546"
+    },
+    {
+        "id": "3c349643-501a-4eff-b3bd-dc5fe25576ac",
+        "name": "BO'SH FLAKON ARGAN MOYILI DUSH UCHUN GEL  300 ml",
+        "price": "46.936,92",
+        "code": "547"
+    },
+    {
+        "id": "227abee1-b351-4727-90d7-fb6a499e5800",
+        "name": "BO'SH FLAKON Normal va yog'li sochlar uchun PROPOLISLI SHAMPUN  300 ml",
+        "price": "46.936,92",
+        "code": "548"
+    },
+    {
+        "id": "e725eb32-889a-4849-977a-da5c2d78b215",
+        "name": "BO'SH FLAKON Normal va quruq sochlar uchun PROPOLISLI SHAMPUN 300 ml",
+        "price": "46.936,92",
+        "code": "549"
+    },
+    {
+        "id": "e783f50c-dbd5-40af-b0d3-81aa32a43be8",
+        "name": "BO'SH FLAKON QO'LLAR UCHUN PROPOLISLI SUYUQ SOVUN 250 ml",
+        "price": "37.841,31",
+        "code": "554"
+    },
+    {
+        "id": "18294b6f-6106-4482-8c38-c45c4bd964cd",
+        "name": "TAQDIMOT SUMKASI",
+        "price": "408.468,50",
+        "code": "555"
+    },
+    {
+        "id": "977c32f5-0a49-4531-ae30-1a6e89610c8e",
+        "name": "QZL SHARF",
+        "price": "325.849,10",
+        "code": "556"
+    },
+    {
+        "id": "3165c819-2e64-42ba-bda0-18f4a586c432",
+        "name": "BRONZA SHARF",
+        "price": "325.849,10",
+        "code": "557"
+    },
+    {
+        "id": "e22c1561-8fb5-476f-b02a-4e35d70241fc",
+        "name": "Kumush sharf",
+        "price": "325.849,10",
+        "code": "558"
+    },
+    {
+        "id": "973afa95-0906-455f-8722-a8b42b0cc77c",
+        "name": "BO'SH FLAKON BAHOR IFORILI VANNA VA TUALETNI TOZALASH VOSITASI  250 ml",
+        "price": "37.841,31",
+        "code": "560"
+    },
+    {
+        "id": "20d17db4-50c9-4c35-bb7f-d8338bf4b675",
+        "name": "BO'SH FLAKON IDISH YUVISH UCHUN SUYUQLIK ",
+        "price": "37.841,31",
+        "code": "561"
+    },
+    {
+        "id": "321ac091-7389-4baf-8318-1c7f8eab6609",
+        "name": "BO'SH FLAKON QO'LLAR UCHUN MOYCHECHAK EKSTRAKTILI  SUYUQ SOVUN  250 ML",
+        "price": "37.841,31",
+        "code": "584"
+    },
+    {
+        "id": "594c418f-0d22-4ada-9a6c-0a3fba3a9f6c",
+        "name": "BO'SH FLAKON MOYCHECHAK EKSTRAKTILI  DUSH UCHUN GEL  250 ML",
+        "price": "46.936,92",
+        "code": "585"
+    },
+    {
+        "id": "f8c893d4-eff4-4422-bce4-574d5fced8b5",
+        "name": "BO'SH FLAKON LAVR EKSTRAKTILI SUYUQ SOVUN  250 ML",
+        "price": "37.841,31",
+        "code": "586"
+    },
+    {
+        "id": "86cb6f86-7680-42b9-bbef-3f60c8cc974a",
+        "name": "EMPTY APPARATUS PINE BAR EXTRACT DUSH GEL 300 ML",
+        "price": "46.936,92",
+        "code": "587"
+    },
+    {
+        "id": "61ea6a45-e8a2-4263-9d22-ea8f353a51a5",
+        "name": "TESTIR LILYUM AYOLLAR ATI 15 ml.",
+        "price": "108.998,45",
+        "code": "588"
+    },
+    {
+        "id": "aa23ce14-b1b6-4747-a5ed-607c5f69343a",
+        "name": "TESTIR XRZANREMA AYOLLAR ATR 15 ml",
+        "price": "108.998,45",
+        "code": "590"
+    },
+    {
+        "id": "853f4050-ff44-4486-80f2-ec8ea6f313ad",
+        "name": "TESTIR FREEZIA AYOLLAR ATI 15 ml",
+        "price": "108.998,45",
+        "code": "591"
+    },
+    {
+        "id": "16c295cb-cb8f-4e4e-8b5f-5ce4f7a574aa",
+        "name": "TESTIR GARDENYA AYOLLAR ATI 15 ml",
+        "price": "108.998,45",
+        "code": "592"
+    },
+    {
+        "id": "bead87b4-151f-46b7-84e6-a6678d6559f8",
+        "name": " TESTIR REYYA AYOLLAR ATI 15 ML",
+        "price": "108.998,45",
+        "code": "593"
+    },
+    {
+        "id": "ad1fae07-01b4-4b90-8da3-d0922cb57f7b",
+        "name": "TESTIR LAVINYA AYOLLAR ATI 15 ml",
+        "price": "108.998,45",
+        "code": "594"
+    },
+    {
+        "id": "2d4915fe-77c4-4661-908a-bc534b4fa0dd",
+        "name": "TESTIR AHENK AYOLLAR ATI 15 ml",
+        "price": "108.998,45",
+        "code": "595"
+    },
+    {
+        "id": "3b65267c-5f35-4cde-b135-c70b64004e72",
+        "name": "TESTIR ESLA AYOLLAR ATI 15 ml",
+        "price": "108.998,45",
+        "code": "596"
+    },
+    {
+        "id": "afbf38f7-7109-4aed-ac9e-68f28c169dcd",
+        "name": "TESTIR AMRA AYOLLAR ATI 15 ml",
+        "price": "108.998,45",
+        "code": "597"
+    },
+    {
+        "id": "14b31893-1647-408c-9d88-43b45a5daab9",
+        "name": "TESTIR POYRAZ ERKAKLAR ATI 15 ML",
+        "price": "108.998,45",
+        "code": "598"
+    },
+    {
+        "id": "06a7584a-a7d0-4484-916f-26838ef5ecdb",
+        "name": "TESTIR NORTH ERKAKLAR ATI 15 ml",
+        "price": "108.998,45",
+        "code": "599"
+    },
+    {
+        "id": "eb7a5397-f396-4698-a25e-bca7ea32ebb2",
+        "name": "TESTIR WIND ERKAKLAR ATI 15 ml",
+        "price": "108.998,45",
+        "code": "600"
+    },
+    {
+        "id": "28bec05c-d8f4-43e6-a52b-66a881749922",
+        "name": "TESTIR LODOS ERKAKLAR ATI 15 ml",
+        "price": "108.998,45",
+        "code": "601"
+    },
+    {
+        "id": "0cdcb821-6801-4b16-812f-20afcf404dd8",
+        "name": "TESTIR AYAZ ERKAKLAR ATI 15 ml",
+        "price": "108.998,45",
+        "code": "602"
+    },
+    {
+        "id": "55df4087-ce55-4ed5-919c-01504431568e",
+        "name": "TESTIR OCEAN ERKAKLAR ATI 15 ml",
+        "price": "108.998,45",
+        "code": "603"
+    },
+    {
+        "id": "aca30c36-3f97-4f91-8259-afd819653721",
+        "name": "TESTIR BKR ERKAKLAR ATI 15 ml",
+        "price": "108.998,45",
+        "code": "604"
+    },
+    {
+        "id": "24d90376-cfd2-4c3a-b2d1-6bb3c4f73e24",
+        "name": "TESTIR AMIR ERKAKLAR ATI 15 ml",
+        "price": "108.998,45",
+        "code": "605"
+    },
+    {
+        "id": "cd3bef84-af54-4504-9f8b-1a230e17be92",
+        "name": "BO'SH QUVVATLASH DUSH GELI 300 ml",
+        "price": "46.936,92",
+        "code": "606"
+    },
+    {
+        "id": "9db797b9-f57a-436e-850c-382c1232f5f6",
+        "name": "EMPTY APPARATUS Odekolon (Mandarin hidli) 100 ml.",
+        "price": "40.878,14",
+        "code": "608"
+    },
+    {
+        "id": "3a38ae40-0cb5-47da-b02c-842187a55fbd",
+        "name": "MOYCHECHAK EKSTRAKTLI SUYUQ QOL KOPG APARATI 500 ml",
+        "price": "78.734,34",
+        "code": "609"
+    },
+    {
+        "id": "214ea09a-3d2a-40ec-bc50-606d60572b0e",
+        "name": "TESTIR VALENS ERKAK ATIRI 15 ML",
+        "price": "108.998,45",
+        "code": "611"
+    },
+    {
+        "id": "88d97501-3fa8-4ffe-9cc0-c72b9f54355b",
+        "name": "TESTIR VENUS AYOL ATIRI 15 ML",
+        "price": "108.998,45",
+        "code": "612"
+    }
+]
